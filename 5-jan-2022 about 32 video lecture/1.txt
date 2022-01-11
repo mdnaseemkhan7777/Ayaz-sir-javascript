@@ -1,0 +1,47 @@
+1. Allow 18+ user who can see this video otherwise give a message for less than 18+ user.
+2. Tell me week day on pressing number 1 to 7 using switch case
+3. print name 100 times using loop
+4. print table 1 to 10 using loop.
+5. Generate this using loopfor
+
+1
+12
+123
+1234
+12345
+
+6.
+
+54321
+5432
+543
+54
+5
+
+7. 
+
+****1    
+***21
+**321
+*4321
+54321
+
+8. 
+
+1****
+12***
+123**
+1234*
+12345
+
+9. 
+
+1*******1 
+12*****21
+123***321
+1234*4321
+123454321
+1234*4321
+123***321
+12*****21
+1*******1
